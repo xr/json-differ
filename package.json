@@ -1,0 +1,14 @@
+{
+  "name": "diff",
+  "version": "1.0.0",
+  "description": "compare the difference between two json obj",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "liang guo <a@jsdeveloper.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
