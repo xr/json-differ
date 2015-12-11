@@ -1,5 +1,5 @@
 {
-  "name": "diff",
+  "name": "json-differ",
   "version": "1.0.0",
   "description": "compare the difference between two json obj",
   "main": "index.js",
