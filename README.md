@@ -43,4 +43,4 @@ diff(JSON.stringify(first), JSON.stringify(second));
 // => {"foo":{"bar":"baz1"},"baz":["foo1"]}
 ```
 ### Test
-npm test
+npm test 
